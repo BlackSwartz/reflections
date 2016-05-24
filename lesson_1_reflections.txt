@@ -1,0 +1,5 @@
+Hha~
+git diff ID1 ID2
+git clone
+diff->commit->git
+git checkout id
